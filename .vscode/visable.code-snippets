@@ -1,0 +1,19 @@
+{
+  "Europages Vue template": {
+    "scope": "vue",
+    "prefix": "vacomp",
+    "body": [
+      "<template>",
+      "\t<div class=\"va-${1:name}\"></div>",
+      "</template>",
+      "",
+      "<script>",
+      "export default {",
+      "\tname: `va-${1:name}`,",
+      "}",
+      "</script>",
+      ""
+    ],
+    "description": "create a Visable component "
+  }
+}

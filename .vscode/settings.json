@@ -1,0 +1,13 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "todohighlight.keywords": [
+    {
+      "text": "NOTE:",
+      "color": "hotpink",
+      "backgroundColor": "darkmagenta",
+      "overviewRulerColor": "grey"
+    }
+  ],
+  "cSpell.words": ["Nuxt", "nuxtjs", "vuetify"]
+}
